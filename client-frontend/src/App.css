@@ -1,0 +1,16 @@
+div {
+  width: 90%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(120, 40, 40);
+  /* background-color: #85f31e41; */
+  
+}
+body{
+  background: url('./images/bgimage.jpg');
+  background-position: center;
+  background-size: cover;
+}
